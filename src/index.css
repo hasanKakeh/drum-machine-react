@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url('parts_viewer01.jpg') ;
+  background-size: auto;
+  background-clip: padding-box;
+  background-size: cover;
 }
 
 code {
